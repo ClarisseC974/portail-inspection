@@ -1,0 +1,5 @@
+Créer un site web(HTLM et CSS complet inclut à même le html) avec un look professionnel servant de portail ouvrant des liens vers les éléments suivants : 
+-Inspecteurs:https://etudiantcegeplapocatiereqc-my.sharepoint.com/personal/202681848_cegeplapocatiere_qc_ca/Lists/Inspecteurs/AllItems.aspx?env=WebViewList
+-Inspection:https://etudiantcegeplapocatiereqc-my.sharepoint.com/personal/202681848_cegeplapocatiere_qc_ca/Lists/Inspection/AllItems.aspx?env=WebViewList
+-Défauts détectés: https://etudiantcegeplapocatiereqc-my.sharepoint.com/personal/202681848_cegeplapocatiere_qc_ca/Lists/Dfauts%20dtects/AllItems.aspx?env=WebViewList
+-Rapports:https://onedrive.live.com/?id=6AEF71CF50DDF7E4%21s9699d0a94f444a849dc36549b4b998cd&cid=6AEF71CF50DDF7E4&parId=6AEF71CF50DDF7E4%21sb069aec850004228b9e95ab8ee2f3bf8&o=OneUp&ls=true 
